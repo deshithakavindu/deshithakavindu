@@ -1,105 +1,97 @@
 <div align="center">
-  
-# 👨‍💻 Deshitha Kavindu
 
-### Software Engineer | Full-Stack Developer | Tech Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=280&section=header&text=Deshitha%20Kavindu&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=deshithakavindu&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/deshithakavindu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deshitha-hewawasam)
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Let's+Build+Something+Amazing+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%E2%9C%A8" alt="Typing SVG" />
 
-</div>
+<br/><br/>
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-hewawasam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deshithakavindu)
 
-I'm a passionate software engineer with a love for building scalable applications and exploring new technologies. I specialize in full-stack development, mobile applications, and cloud technologies. Always eager to learn and contribute to innovative projects.
+<br/>
 
-```javascript
-const deshitha = {
-    location: "Sri Lanka 🇱🇰",
-    education: "Computer Science",
-    currentFocus: ["Full-Stack Development", "Mobile Apps", "Cloud Computing"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,typescript,dart,kotlin" />
+
+<br/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma" />
+
+<br/>
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase" />
+
+<br/>
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 
----
+<br/>
 
-## 📊 GitHub Statistics
+### Mobile Development
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deshithakavindu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+<img src="https://skillicons.dev/icons?i=flutter,android" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deshithakavindu&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshithakavindu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)
+### DevOps & Tools
 
-</div>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,postman,vscode,idea" />
 
----
+<br/><br/>
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=deshithakavindu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+<br/>
 
-</div>
 
----
+<br/>
 
-## 📫 Let's Connect!
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deshitha-hewawasam)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deshithakavindu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+I'm passionate about crafting elegant solutions and collaborating on innovative projects.  
+Always open to discussing new opportunities and exciting challenges!
 
-</div>
+
+<a href="https://www.linkedin.com/in/deshitha-hewawasam-49a511388/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="deshithak2729@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=deshithakavindu&label=Profile%20Views&color=2E8B57&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
 
 ---
 
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Snake animation](https://github.com/deshithakavindu/deshithakavindu/blob/output/github-contribution-grid-snake.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ projects you find interesting!**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=120&section=footer"/>
