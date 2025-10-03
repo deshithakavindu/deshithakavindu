@@ -23,8 +23,8 @@
 <br/>
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,cs" />
-<img src="https://skillicons.dev/icons?i=js,,react,nodejs" />
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,html,css" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,html,css" />
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman" />
 
